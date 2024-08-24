@@ -1,2 +1,2 @@
-# an-lises_econ-micas
+# analises_economicas
 Análises diversas sobre indicadores econômicos
